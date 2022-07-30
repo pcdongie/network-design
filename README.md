@@ -1,4 +1,4 @@
-# hazmat-network code
+# Code of the network design considering user choice
 
 In our reseach,  we deal with a hazmat network design problem considering the uncertain choice behavior of users, and develop a branch-and-benders cut algorithm
 based on Benders Decomposition idea. At the same time, in order to improve the algorithm performance, a series of acceleration strategies are proposed. 
